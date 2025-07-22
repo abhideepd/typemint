@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/app.component.css"],
+  "sourcesContent": [".pending{\r\n  color:grey;\r\n}\r\n\r\n.correct{\r\n  color:green;\r\n  font-weight: bold;\r\n}\r\n\r\n.incorrect{\r\n  color: red;\r\n  font-weight: bold;\r\n}\r\n"],
+  "mappings": ";AAAA,CAAC;AACC,SAAM;AACR;AAEA,CAAC;AACC,SAAM;AACN,eAAa;AACf;AAEA,CAAC;AACC,SAAO;AACP,eAAa;AACf;",
+  "names": []
+}
